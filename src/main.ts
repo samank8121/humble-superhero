@@ -12,6 +12,7 @@ async function bootstrap() {
       transformOptions: { enableImplicitConversion: true },
     }),
   );
+  app.enableCors();
   const config = new DocumentBuilder()
     .setTitle('Superheroes API')
     .setDescription('Superheroes API Documentation')
