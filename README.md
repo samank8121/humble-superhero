@@ -21,6 +21,8 @@ $ pnpm test
 # watch mode
 $ pnpm test:watch
 ```
+## Swagger
+http://localhost:3000/swagger#/
 
 ## Team Player 
 Improvement tasks in my mind which we can add them to backlog some of them are technical debt:
