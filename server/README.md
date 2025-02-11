@@ -1,3 +1,6 @@
+## Description
+Sample Backend for superhero demo
+
 ## Project setup
 ```bash
 $ pnpm install
@@ -33,5 +36,5 @@ Improvement tasks in my mind which we can add them to backlog some of them are t
 - it would be nice to add k6 test for load, stress, soak and spike test
 
 ## If I had more time
-- I'll add message service to put all messages in one place
-- I'll add k6 test
+- I would add message service to put all messages in one place
+- I would add k6 test
